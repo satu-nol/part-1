@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "part-1",
+            "includePath": [
+                "${workspaceRoot}"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "gcc-arm",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "defines": [],
+            "compileCommands": "${workspaceFolder}/.build-app/compile_commands.json",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
